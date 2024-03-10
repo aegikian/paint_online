@@ -1,0 +1,16 @@
+.canvas_r {
+  border: 1px black solid;
+  border-radius: 10px;
+}
+.canvas_all {
+  display: flex;
+  flex-direction: column;
+  margin-top: 80px;
+}
+.canvas_panel {
+  display: flex;
+  gap: 10px;
+  height: 50px;
+  justify-content: start;
+  align-items: center;
+}
