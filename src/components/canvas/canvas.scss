@@ -14,3 +14,13 @@
   justify-content: start;
   align-items: center;
 }
+.pen {
+  border-radius: 10px;
+  background-color: rgb(216, 216, 216);
+  border: none;
+}
+
+.pen_active {
+  background-color: rgb(255, 255, 255);
+  border: 1px green solid;
+}
